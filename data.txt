@@ -1,0 +1,5 @@
+Two D6 Analysis
+Mean result: 7.000817
+Median result: 7.0
+Quantile result: 10
+Data Range: 10
